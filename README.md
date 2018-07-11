@@ -9,7 +9,7 @@
 > MacOS 客户端
 
 + [直接下载MacOS客户端](https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg)
-+ [通过百度网盘下载MacOS客户端](https://pan.baidu.com/s/1O-VIEvhi5wFE_64DAS32rw) 密码: 6px9
++ [通过百度网盘下载MacOS客户端](https://pan.baidu.com/s/1OYhAmrwShtNQWul2kblCNg) 密码: unwv
 
 
 > Android 客户端
