@@ -1,4 +1,9 @@
-# shadow-socks
+# shadow-socks客户端整理
+> 推荐使用定时更新的免费SS服务或最便宜的付费SS服务：
+
++ [定时更新的免费SS服务](https://toolher.com/ss)
++ [最便宜的付费SS服务](https://acnet.xyz/aff.php?aff=1827)
+
 
 > Windows 客户端
 
